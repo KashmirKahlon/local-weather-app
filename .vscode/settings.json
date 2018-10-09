@@ -20,7 +20,7 @@
   "prettier.semi": false,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "es5",
-  "typescriptHero.imports.insertSemicolons": true,
+  "typescriptHero.imports.insertSemicolons": false,
   "typescriptHero.imports.multiLineWrapThreshold": 90,
   "typescriptHero.imports.organizeOnSave": true
 }
